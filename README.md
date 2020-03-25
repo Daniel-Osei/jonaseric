@@ -6,17 +6,30 @@ Parts of the Course
 -------------------
 The course is made up of:
 * #### BASICS
-  * what
-  * when
-  * how
-* #### INTERMEDIATE
-  * what
-  * when
-  * how
-* #### ADVANCE
-  * what
-  * when
-  * how
+  * Headers
+  * Emphasis
+  * Lists
 
+* #### INTERMEDIATE
+  * Links
+  * Images
+  * Tables
+
+* #### ADVANCE
+  * Block-quotes
+  * Horizontal Rule
+  * Line Breaks
+
+* #### PRO
+  * Code and Syntax Highlighting
+  * Inline HTML
+  * YouTube Videos
+  * TeX Mathematical Formulae
+
+* #### ZEN MODE
+  * Emojis
+  * Watchout for more!!
 
 # REFERENCES
+
+[//]:<> (https://daringfireball.net/projects/markdown/syntax#p)
