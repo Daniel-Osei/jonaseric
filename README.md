@@ -6,5 +6,17 @@ Parts of the Course
 -------------------
 The course is made up of:
 * #### BASICS
+  * what
+  * when
+  * how
 * #### INTERMEDIATE
+  * what
+  * when
+  * how
 * #### ADVANCE
+  * what
+  * when
+  * how
+
+
+# REFERENCES
