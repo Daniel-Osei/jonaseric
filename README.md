@@ -19,15 +19,15 @@ The course is made up of:
   * Block-quotes
   * Horizontal Rule
   * Line Breaks
+  * Code and Syntax Highlight
 
 * #### PRO
-  * Code and Syntax Highlighting
   * Inline HTML
   * YouTube Videos
   * TeX Mathematical Formulae
 
 * #### ZEN MODE
-  * Emojis
+
   * Watchout for more!!
 
 # REFERENCES

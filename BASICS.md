@@ -22,6 +22,9 @@ Emphasis
 -------
 **This will bold our text**
 
+* This is an alternative for H1
+  =============================
+
 __This will produce the same result as the above__
 
 *Italics is Bae*
